@@ -9,8 +9,9 @@ public class Wednesday {
 			for(int j=i+1; j<=charone.length; j++){
 				if(charone[i] == charone[j]){
 					System.out.println("the duplicated value is then"+ i);
+
 					System.out.println("First Conflicate one");
-					
+				
 				}
 			}
 		}

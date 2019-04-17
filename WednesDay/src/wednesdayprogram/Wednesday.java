@@ -10,6 +10,7 @@ public class Wednesday {
 				if(charone[i] == charone[j]){
 					System.out.println("the duplicated value is then"+ i);
 
+
 					System.out.println("First Conflicate one");
 				
 				}
